@@ -14,7 +14,7 @@ OWNER_NAME: process.env.OWNER_NAME === undefined ? `kasun` : process.env.OWNER_N
 ADDRESSES: process.env.ADDRESSES === undefined ? '' : process.env.ADDRESSES,
 AUTO_VOICE: process.env.AUTO_VOICE === undefined ? 'false' : process.env.AUTO_VOICE,    
 ALIVE: process.env.ALIVE === undefined ? `Hello im alive now !!` : process.env.ALIVE,
-OWNER: process.env.OWNER === undefined ? `94772801923` : process.env.OWNER,
+OWNER: process.env.OWNER === undefined ? `94775228949` : process.env.OWNER,
 PREFIX: process.env.PREFIX === undefined ? '@' : process.env.PREFIX,
 FOOTER: process.env.FOOTER=== undefined ? '‌ᴍʀᴋᴀꜱᴜɴ': process.env.FOOTER,
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
